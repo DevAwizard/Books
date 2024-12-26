@@ -1,16 +1,16 @@
 # 📚 Books
 
-## 🖥️ 1. Understand How Computers Work
+### 🖥️ 1. Understand How Computers Work
 
 To start, focus on the fundamentals of computer science and the mechanics of how computers operate.
 
-### Topics to Learn:
+#### Topics to Learn:
 - History of computing
 - How computers process information (binary systems)
 - The architecture of computers (CPU, RAM, Storage)
 - Operating systems basics
 
-# Recommended
+#### Recommended
 
 | 📚 **Book Title** | ✍️ **Author** | 📝 **Description** | 🔗 **Link** |
 |--------------------|---------------|---------------------|-------------|
