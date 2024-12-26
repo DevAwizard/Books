@@ -159,11 +159,24 @@
 
 
 | 💻 **[How Computers Work](https://github.com/DevAwizard/Books/blob/main/How_computers_work/README.md)** | 📘 **[How Computers and Programming Languages Intersect](https://github.com/DevAwizard/Books/blob/main/Reading_list/How%20computers%20and%20programming%20languages%20intersect/README.md)** | 📒 **[Classics](https://github.com/DevAwizard/Books/blob/main/Reading_list/Classics/README.md)** | 📙 **[Programming Languages](https://github.com/DevAwizard/Books/tree/main/Programming_languages)** |
-|--|--|--|--|
+|--|--|
 
 
+<div align="center">
+  <table>
+    <tr>
+      <th align="center"><span style="font-size:1000px">📚 Reading List</span></th>
+    </tr>
+    <tr>
+      <td>
 
-## 📖 Reading List
+| 💻 [How Computer Works](https://github.com/DevAwizard/Books/blob/main/How_computers_work/README.md) | 📘 [How Computers and Programming Languages Intersect](https://github.com/DevAwizard/Exams_42/blob/main/.github/Exam_rank_2/README.md) |
+|--|--|
 
-💻 **[How Computers Work](https://github.com/DevAwizard/Books/blob/main/How_computers_work/README.md)** | 📘 **[How Computers and Programming Languages Intersect](https://github.com/DevAwizard/Books/blob/main/Reading_list/How%20computers%20and%20programming%20languages%20intersect/README.md)** | 📒 **[Classics](https://github.com/DevAwizard/Books/blob/main/Reading_list/Classics/README.md)** | 📙 **[Programming Languages](https://github.com/DevAwizard/Books/tree/main/Programming_languages)**
+</td>
+</tr>
+</table>
+</div>
+
+
 ---
