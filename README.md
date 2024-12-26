@@ -39,6 +39,15 @@
 </div>
 
 
+<div align="center">
+   <h3>📖 Reading List</h3>
+
+| 💻 [How Computers Work](https://github.com/DevAwizard/Books/blob/main/How_computers_work/README.md) | 📘 [How computers and programming languages intersect](https://github.com/DevAwizard/Books/blob/main/Reading_list/How%20computers%20and%20programming%20languages%20intersect/README.md) | 📒 [Classics](https://github.com/DevAwizard/Books/blob/main/Reading_list/Classics/README.md) | 📙 [Programming_languages)](https://github.com/DevAwizard/Books/tree/main/Programming_languages) |
+|--|--|--|--|
+
+</div>
+
+
 
 
 
