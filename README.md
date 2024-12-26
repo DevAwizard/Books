@@ -62,6 +62,31 @@
 </div>
 
 
+<div align="center">
+   <h3>📖 Reading List</h3>
+   <table style="border-collapse: collapse; margin: 0 auto; text-align: center;">
+      <tr>
+         <td style="padding: 15px; border: 1px solid #ddd; text-align: center;">
+            💻 <br>
+            <a href="https://github.com/DevAwizard/Books/blob/main/How_computers_work/README.md"><b>How Computers Work</b></a>
+         </td>
+         <td style="padding: 15px; border: 1px solid #ddd; text-align: center;">
+            📘 <br>
+            <a href="https://github.com/DevAwizard/Books/blob/main/Reading_list/How%20computers%20and%20programming%20languages%20intersect/README.md"><b>How Computers and Programming Languages Intersect</b></a>
+         </td>
+         <td style="padding: 15px; border: 1px solid #ddd; text-align: center;">
+            📒 <br>
+            <a href="https://github.com/DevAwizard/Books/blob/main/Reading_list/Classics/README.md"><b>Classics</b></a>
+         </td>
+         <td style="padding: 15px; border: 1px solid #ddd; text-align: center;">
+            📙 <br>
+            <a href="https://github.com/DevAwizard/Books/tree/main/Programming_languages"><b>Programming Languages</b></a>
+         </td>
+      </tr>
+   </table>
+</div>
+
+
 
 
 
