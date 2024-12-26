@@ -1,6 +1,5 @@
-# 📚 Books
-
 <div align="center">
+    <h1>📚 Books</h1>
   <p>
     <em>"Every page you turn today becomes a stepping stone for tomorrow’s success."</em>
   </p>
@@ -9,7 +8,7 @@
 
 
 <div align="center">
-  <h2>📚 Reading List</h2>
+  <h2> 📋 Reading List</h2>
   <table>
     <tr>
       <th colspan="2" style="font-size: 20px;">🖥️ Hardware</th>
