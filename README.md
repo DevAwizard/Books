@@ -122,6 +122,41 @@
 </div>
 
 
+<div align="center">
+   <h3>📖 Reading List</h3>
+   <div style="overflow-x: auto;">
+      <table style="border-collapse: collapse; border: 1px solid #ddd; margin: 0 auto; text-align: center;">
+         <tr>
+            <td style="padding: 20px; border: 1px solid #ddd;">
+               💻 <br>
+               <a href="https://github.com/DevAwizard/Books/blob/main/How_computers_work/README.md">
+                  <strong>How Computers Work</strong>
+               </a>
+            </td>
+            <td style="padding: 20px; border: 1px solid #ddd;">
+               📘 <br>
+               <a href="https://github.com/DevAwizard/Books/blob/main/Reading_list/How%20computers%20and%20programming%20languages%20intersect/README.md">
+                  <strong>How Computers and Programming Languages Intersect</strong>
+               </a>
+            </td>
+            <td style="padding: 20px; border: 1px solid #ddd;">
+               📒 <br>
+               <a href="https://github.com/DevAwizard/Books/blob/main/Reading_list/Classics/README.md">
+                  <strong>Classics</strong>
+               </a>
+            </td>
+            <td style="padding: 20px; border: 1px solid #ddd;">
+               📙 <br>
+               <a href="https://github.com/DevAwizard/Books/tree/main/Programming_languages">
+                  <strong>Programming Languages</strong>
+               </a>
+            </td>
+         </tr>
+      </table>
+   </div>
+</div>
+
+
 
 
 
