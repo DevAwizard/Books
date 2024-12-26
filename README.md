@@ -2,7 +2,13 @@
 
 ### 🖥️ 1. Understand How Computers Work
 
-To start, focus on the fundamentals of computer science and the mechanics of how computers operate.
+Before diving into programming, it’s crucial to understand how computers operate at a fundamental level. This involves exploring topics like computer architecture, how data is processed, and the basics of operating systems. With this foundational knowledge, you’ll be better equipped to understand programming, debugging, and how software interacts with hardware.
+
+**Why This Matters**
+
+While learning programming languages is a popular starting point, understanding the systems beneath the code gives you a stronger foundation. By grasping how computers actually work, you’ll develop an appreciation for the underlying principles that make software development possible.
+
+The books below will guide you step by step in building this knowledge, starting from first principles and advancing to more complex topics.
 
 #### Topics to Learn:
 - History of computing
