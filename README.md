@@ -1,5 +1,8 @@
 # 📚 Books
 
+Every page you turn today becomes a stepping stone for tomorrow’s success.
+
+
 ### 🖥️ 1. Understand How Computers Work
 
 Before diving into programming, it’s crucial to understand how computers operate at a fundamental level. This involves exploring topics like computer architecture, how data is processed, and the basics of operating systems. With this foundational knowledge, you’ll be better equipped to understand programming, debugging, and how software interacts with hardware.
